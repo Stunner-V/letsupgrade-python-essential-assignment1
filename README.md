@@ -1,1 +1,1 @@
-# letsupgrade-python-essential-assignment1
+# letsupgrade-python-essential-day2-assignments
